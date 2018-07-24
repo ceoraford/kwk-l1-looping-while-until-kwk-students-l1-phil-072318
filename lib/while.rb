@@ -4,8 +4,9 @@ def using_while
 	puts "Wingardium Leviosa"
 	number+=1 
 	end 
+	
 	 
 	#your code here
 end
 
-
+using_while
